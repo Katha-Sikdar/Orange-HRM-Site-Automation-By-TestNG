@@ -26,5 +26,14 @@
        - allure serve allure-results
        - allure generate allure-results --clean -output
  ### Allure Report for Regression Test - 
+
+https://github.com/Katha-Sikdar/Orange-HRM-Site-Automation-By-TestNG/assets/82141562/66580dd4-18bd-4e73-b64f-1abbc8b4b0bf
+
+### Automation Results of Regression and Smoke test: 
+
  
 ![over 1](https://github.com/Katha-Sikdar/Orange-HRM-Site-Automation-By-TestNG/assets/82141562/90c47dc6-8f92-4030-ad95-e1b2a551b290)
+
+
+
+
