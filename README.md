@@ -5,3 +5,8 @@
 ### Test Case for this Suite: 
 
  https://docs.google.com/spreadsheets/d/1dWenlpIgI72RAuOpfhvRDzcE2Dl5mmzQIFSCdT4s4JA/edit?usp=sharing
+
+### Prerequisites: 
+ -  JDK
+ -  Gradle
+
