@@ -22,8 +22,9 @@
       - gradle clean test -Pfilesuite="SmokeMasterSuite.xml"
   - Give the following command to run Regression Test Suite -
       - gradle clean test -Pfilesuite="RegressionMasterSuite.xml"
-   - To generate Allure Report use these commands -
+   - To generate Allure Report use following commands -
        - allure serve allure-results
-       - allure generate allure-results --clean -output 
-
-
+       - allure generate allure-results --clean -output
+ ### Allure Report for Regression Test - 
+ 
+![over 1](https://github.com/Katha-Sikdar/Orange-HRM-Site-Automation-By-TestNG/assets/82141562/90c47dc6-8f92-4030-ad95-e1b2a551b290)
