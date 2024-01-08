@@ -9,4 +9,21 @@
 ### Prerequisites: 
  -  JDK
  -  Gradle
+### Tools and Technologies:
+ - IntelliJ IDEA
+ - Selenium Webdriver
+ - TestNG Framework
+ - Gradle
+ - Allure
+### How to run this project: 
+ - Clone the repository ``` git@github.com:Katha-Sikdar/Orange-HRM-Site-Automation-By-TestNG.git ```
+ -  Open Terminal
+ -  Give the following command to run Smoke Test Suite-
+      - gradle clean test -Pfilesuite="SmokeMasterSuite.xml"
+  - Give the following command to run Regression Test Suite -
+      - gradle clean test -Pfilesuite="RegressionMasterSuite.xml"
+   - To generate Allure Report use these commands -
+       - allure serve allure-results
+       - allure generate allure-results --clean -output 
+
 
