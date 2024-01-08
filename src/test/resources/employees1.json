@@ -1,0 +1,29 @@
+[
+  {
+    "firstName": "katha",
+    "password": "1234",
+    "laststName": "sikdar",
+    "username": "katha"
+  },
+  {
+    "firstName": "Cameron",
+    "lastName": "O'Connell",
+    "password": "userYYcOlAs4i",
+    "employeeId": "6949",
+    "username": "fernando.labadie"
+  },
+  {
+    "firstName": "Jade",
+    "lastName": "Gibson",
+    "password": "userM6yq#2*SV",
+    "employeeId": "6901",
+    "username": "setsuko.marvin"
+  },
+  {
+    "firstName": "Avril",
+    "lastName": "Cassin",
+    "password": "user*2m5hoJ#D",
+    "employeeId": "6674",
+    "username": "emmett.connelly"
+  }
+]
